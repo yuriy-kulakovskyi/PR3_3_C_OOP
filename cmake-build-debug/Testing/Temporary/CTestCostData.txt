@@ -1,0 +1,2 @@
+FractionTest.DefaultConstructor 1 0.00552033
+---
